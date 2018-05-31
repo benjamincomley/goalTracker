@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/knockout, @types/knockout-amd-helpers, @types/knockout-postbox, @types/knockout-secure-binding, @types/knockout-transformations, @types/knockout.deferred.updates, @types/knockout.editables, @types/knockout.es5, @types/knockout.kogrid, @types/knockout.mapper, @types/knockout.mapping, @types/knockout.projections, @types/knockout.punches, @types/knockout.rx, @types/knockout.validation, @types/knockout.viewmodel, @types/ko.plus, jquery-3.3.1, knockout}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>
